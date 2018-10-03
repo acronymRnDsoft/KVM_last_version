@@ -1,0 +1,69 @@
+C:\Users\infofab\Desktop\keyLogWindows\keyLogWindows\bin\Debug\keyLogWindows.exe.config
+C:\Users\infofab\Desktop\keyLogWindows\keyLogWindows\bin\Debug\keyLogWindows.exe
+C:\Users\infofab\Desktop\keyLogWindows\keyLogWindows\bin\Debug\keyLogWindows.pdb
+C:\Users\infofab\Desktop\keyLogWindows\keyLogWindows\obj\Debug\keyMouSerial.csprojResolveAssemblyReference.cache
+C:\Users\infofab\Desktop\keyLogWindows\keyLogWindows\obj\Debug\keyLogWindows.exe
+C:\Users\infofab\Desktop\keyLogWindows\keyLogWindows\obj\Debug\keyLogWindows.pdb
+C:\Users\infofab\Desktop\keyMouSerial\keyLogWindows\bin\Debug\keyLogWindows.exe.config
+C:\Users\infofab\Desktop\keyMouSerial\keyLogWindows\obj\Debug\keyLogWindows.exe
+C:\Users\infofab\Desktop\keyMouSerial\keyLogWindows\obj\Debug\keyLogWindows.pdb
+C:\Users\infofab\Desktop\keyMouSerial\keyMouSerial\bin\Debug\keyMouSerial.exe.config
+C:\Users\infofab\Desktop\keyMouSerial\keyMouSerial\bin\Debug\keyMouSerial.exe
+C:\Users\infofab\Desktop\keyMouSerial\keyMouSerial\bin\Debug\keyMouSerial.pdb
+C:\Users\infofab\Desktop\keyMouSerial\keyMouSerial\obj\Debug\keyMouSerial.exe
+C:\Users\infofab\Desktop\keyMouSerial\keyMouSerial\obj\Debug\keyMouSerial.pdb
+C:\Users\Admin\Downloads\keyMouSerialWindowsSource\keyMouSerial Source\keyMouSerial\obj\Debug\keyMouSerial.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\keyMouSerialWindowsSource\keyMouSerial Source\keyMouSerial\obj\Debug\keyMouSerial.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\keyMouSerialWindowsSource\keyMouSerial Source\keyMouSerial\obj\Debug\keyMouSerial.exe
+C:\Users\Admin\Downloads\keyMouSerialWindowsSource\keyMouSerial Source\keyMouSerial\obj\Debug\keyMouSerial.pdb
+C:\Users\Admin\Downloads\keyMouSerialWindowsSource\keyMouSerial Source\keyMouSerial\bin\Debug\keyMouSerial.exe.config
+C:\Users\Admin\Downloads\keyMouSerialWindowsSource\keyMouSerial Source\keyMouSerial\bin\Debug\keyMouSerial.exe
+C:\Users\Admin\Downloads\keyMouSerialWindowsSource\keyMouSerial Source\keyMouSerial\bin\Debug\keyMouSerial.pdb
+D:\keyMouSerial Source\keyMouSerial\bin\Debug\keyMouSerial.exe.config
+D:\keyMouSerial Source\keyMouSerial\bin\Debug\keyMouSerial.exe
+D:\keyMouSerial Source\keyMouSerial\bin\Debug\keyMouSerial.pdb
+D:\keyMouSerial Source\keyMouSerial\obj\Debug\keyMouSerial.csprojAssemblyReference.cache
+D:\keyMouSerial Source\keyMouSerial\obj\Debug\keyMouSerial.csproj.CoreCompileInputs.cache
+D:\keyMouSerial Source\keyMouSerial\obj\Debug\keyMouSerial.exe
+D:\keyMouSerial Source\keyMouSerial\obj\Debug\keyMouSerial.pdb
+D:\keyMouSerial Source\keyMouSerial\obj\Debug\keyMouSerial.view.resources
+D:\keyMouSerial Source\keyMouSerial\obj\Debug\keyMouSerial.csproj.GenerateResource.cache
+C:\Users\Kate\Desktop\Build\keyMouSerial Source\keyMouSerial\bin\Debug\keyMouSerial.exe.config
+C:\Users\Kate\Desktop\Build\keyMouSerial Source\keyMouSerial\bin\Debug\keyMouSerial.exe
+C:\Users\Kate\Desktop\Build\keyMouSerial Source\keyMouSerial\bin\Debug\keyMouSerial.pdb
+C:\Users\Kate\Desktop\Build\keyMouSerial Source\keyMouSerial\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Kate\Desktop\Build\keyMouSerial Source\keyMouSerial\bin\Debug\AForge.Video.dll
+C:\Users\Kate\Desktop\Build\keyMouSerial Source\keyMouSerial\bin\Debug\AForge.dll
+C:\Users\Kate\Desktop\Build\keyMouSerial Source\keyMouSerial\bin\Debug\AForge.Video.xml
+C:\Users\Kate\Desktop\Build\keyMouSerial Source\keyMouSerial\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Kate\Desktop\Build\keyMouSerial Source\keyMouSerial\bin\Debug\AForge.xml
+C:\Users\Kate\Desktop\Build\keyMouSerial Source\keyMouSerial\obj\Debug\keyMouSerial.csprojAssemblyReference.cache
+C:\Users\Kate\Desktop\Build\keyMouSerial Source\keyMouSerial\obj\Debug\keyMouSerial.view.resources
+C:\Users\Kate\Desktop\Build\keyMouSerial Source\keyMouSerial\obj\Debug\keyMouSerial.csproj.GenerateResource.cache
+C:\Users\Kate\Desktop\Build\keyMouSerial Source\keyMouSerial\obj\Debug\keyMouSerial.csproj.CoreCompileInputs.cache
+C:\Users\Kate\Desktop\Build\keyMouSerial Source\keyMouSerial\obj\Debug\keyMouSerial.csproj.CopyComplete
+C:\Users\Kate\Desktop\Build\keyMouSerial Source\keyMouSerial\obj\Debug\keyMouSerial.exe
+C:\Users\Kate\Desktop\Build\keyMouSerial Source\keyMouSerial\obj\Debug\keyMouSerial.pdb
+D:\keyMouSerial Source\keyMouSerial\bin\Debug\AForge.Video.DirectShow.dll
+D:\keyMouSerial Source\keyMouSerial\bin\Debug\AForge.Video.dll
+D:\keyMouSerial Source\keyMouSerial\bin\Debug\AForge.dll
+D:\keyMouSerial Source\keyMouSerial\bin\Debug\AForge.Video.xml
+D:\keyMouSerial Source\keyMouSerial\bin\Debug\AForge.Video.DirectShow.xml
+D:\keyMouSerial Source\keyMouSerial\bin\Debug\AForge.xml
+D:\keyMouSerial Source\keyMouSerial\obj\Debug\keyMouSerial.csproj.CopyComplete
+D:\keyMouSerial Source\keyMouSerial Source\keyMouSerial\bin\Debug\keyMouSerial.exe.config
+D:\keyMouSerial Source\keyMouSerial Source\keyMouSerial\bin\Debug\keyMouSerial.exe
+D:\keyMouSerial Source\keyMouSerial Source\keyMouSerial\bin\Debug\keyMouSerial.pdb
+D:\keyMouSerial Source\keyMouSerial Source\keyMouSerial\bin\Debug\AForge.Video.DirectShow.dll
+D:\keyMouSerial Source\keyMouSerial Source\keyMouSerial\bin\Debug\AForge.Video.dll
+D:\keyMouSerial Source\keyMouSerial Source\keyMouSerial\bin\Debug\AForge.dll
+D:\keyMouSerial Source\keyMouSerial Source\keyMouSerial\bin\Debug\AForge.Video.xml
+D:\keyMouSerial Source\keyMouSerial Source\keyMouSerial\bin\Debug\AForge.Video.DirectShow.xml
+D:\keyMouSerial Source\keyMouSerial Source\keyMouSerial\bin\Debug\AForge.xml
+D:\keyMouSerial Source\keyMouSerial Source\keyMouSerial\obj\Debug\keyMouSerial.csprojAssemblyReference.cache
+D:\keyMouSerial Source\keyMouSerial Source\keyMouSerial\obj\Debug\keyMouSerial.view.resources
+D:\keyMouSerial Source\keyMouSerial Source\keyMouSerial\obj\Debug\keyMouSerial.csproj.GenerateResource.cache
+D:\keyMouSerial Source\keyMouSerial Source\keyMouSerial\obj\Debug\keyMouSerial.csproj.CoreCompileInputs.cache
+D:\keyMouSerial Source\keyMouSerial Source\keyMouSerial\obj\Debug\keyMouSerial.csproj.CopyComplete
+D:\keyMouSerial Source\keyMouSerial Source\keyMouSerial\obj\Debug\keyMouSerial.exe
+D:\keyMouSerial Source\keyMouSerial Source\keyMouSerial\obj\Debug\keyMouSerial.pdb

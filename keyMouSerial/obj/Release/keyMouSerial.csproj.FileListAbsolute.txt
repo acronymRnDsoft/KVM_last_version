@@ -1,0 +1,7 @@
+D:\keyMouSerial Source\keyMouSerial\bin\Release\keyMouSerial.exe.config
+D:\keyMouSerial Source\keyMouSerial\bin\Release\keyMouSerial.exe
+D:\keyMouSerial Source\keyMouSerial\bin\Release\keyMouSerial.pdb
+D:\keyMouSerial Source\keyMouSerial\obj\Release\keyMouSerial.csprojAssemblyReference.cache
+D:\keyMouSerial Source\keyMouSerial\obj\Release\keyMouSerial.csproj.CoreCompileInputs.cache
+D:\keyMouSerial Source\keyMouSerial\obj\Release\keyMouSerial.exe
+D:\keyMouSerial Source\keyMouSerial\obj\Release\keyMouSerial.pdb
